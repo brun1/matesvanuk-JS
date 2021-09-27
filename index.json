@@ -1,0 +1,44 @@
+{
+  "Items": [
+    {
+      "title": "Mate Imperial",
+      "precio": "$1700",
+      "img": "./img/mate1.jpeg"
+    },
+    {
+      "title": "Mate Camionero",
+      "precio": "$1500",
+      "img": "./img/mate2.jpeg"
+    },
+    {
+      "title": "Mate Torpedo",
+      "precio": "$1300",
+      "img": "./img/mate3.jpeg"
+    },
+    {
+      "title": "Bombilla de Acero",
+      "precio": "$750",
+      "img": "./img/bombilla1.jpeg"
+    },
+    {
+      "title": "Matepa",
+      "precio": "$700",
+      "img": "./img/matepa1.jpeg"
+    },
+    {
+      "title": "Matera",
+      "precio": "$1200",
+      "img": "./img/matera.jpeg"
+    },
+    {
+      "title": "Combito del Mes",
+      "precio": "$2000",
+      "img": "./img/matebombimarron.jpeg"
+    },
+    {
+      "title": "Combo del Mes",
+      "precio": "$2700",
+      "img": "./img/termomate.jpeg"
+    }
+  ]
+}
